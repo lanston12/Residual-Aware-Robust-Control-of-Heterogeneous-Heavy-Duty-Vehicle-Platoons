@@ -42,18 +42,8 @@ residuals and is not used to validate the disturbance-estimation layer.
 - Optimization Toolbox ...
 - TruckSim ... only for ...
 
-## Reproducing figures
-
-...
-
 ## Data availability
 
-...
+Basically, the data presented in the paper are produced by the source code and the cosimulation model. 
 
-## Citation
-
-...
-
-## License
-
-...
+Note that, the UB-LESO observer mechanism was deleted in the revised version of the paper, we replaced with a normal observer with finite bounds, which we no longer claim as an innovation or novelty in the paper. So if there is remaining word of UB-LESO in other files, consider it as useless reminants. 
