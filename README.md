@@ -14,7 +14,7 @@ This repository contains:
 1. the numerical scenario scripts and frozen result data used
    to generate the reported figures and tables;
 2. plotting scripts for the revised manuscript;
-3. a paper-level reference implementation of the residual-aware
+3. a legacy_trucksim_template of the residual-aware
    controller;
 4. a legacy MATLAB/Simulink–TruckSim integration template.
 
